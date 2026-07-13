@@ -1,0 +1,11 @@
+# FastF1 Raw Cache (Too large for GitHub, do not commit)
+data/cache/
+
+# Python Virtual Environment
+.venv/
+__pycache__/
+*.pyc
+
+# IDE & OS Files
+.vscode/
+.DS_Store
